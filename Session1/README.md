@@ -86,6 +86,16 @@ https://tailwindcss.com/docs/guides/vite
 
 4. Stylisez le composant avec Tailwind CSS pour qu'il soit attrayant et réactif.
 
+### Exercice 5 : Composant Dropdown avec TypeScript
+
+**Objectif :** Créer un composant Dropdown réutilisable qui permet de sélectionner une option parmi plusieurs, en utilisant TypeScript pour typer les props et Tailwind pour le styliser.
+
+1. Définir les Props : Créez une interface DropdownProps qui inclut une liste d'options et une fonction callback qui est appelée lorsque l'option est sélectionnée.
+
+2. Implémenter le Composant : Développez le composant Dropdown qui affiche la liste des options et gère la sélection. Utilisez les classes Tailwind pour styliser le dropdown de manière élégante.
+
+3. Gestion des Événements : Assurez-vous que la sélection d'une option déclenche la fonction callback passée en prop, en passant la valeur sélectionnée.
+
 ## Besoin d'aide ? 🆘
 
 Si vous rencontrez des difficultés, n'hésitez pas à consulter la documentation officielle de [React](https://reactjs.org/), [TypeScript](https://www.typescriptlang.org/docs/), et [Tailwind CSS](https://tailwindcss.com/).
