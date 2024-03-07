@@ -92,6 +92,8 @@ Si vous rencontrez des difficultés ou avez des questions sur la gestion de l'é
 
 - **Gestion de l'état avec useState** : Pour une meilleure compréhension du Hook useState, consultez [la documentation officielle de React sur useState](https://fr.reactjs.org/docs/hooks-state.html).
 - **Gestion des événements** : Pour en savoir plus sur la manière de gérer les événements dans vos composants React, visitez [la documentation officielle de React sur la gestion des événements](https://fr.reactjs.org/docs/handling-events.html).
+- [Documentation officielle de React sur les Hooks](https://fr.reactjs.org/docs/hooks-intro.html) pour une immersion dans `useState` et `useEffect`.
+- [JSONPlaceholder documentation](https://jsonplaceholder.typicode.com/guide/) pour des exemples d'utilisation de l'API.
 
 
 
