@@ -38,7 +38,7 @@ https://tailwindcss.com/docs/guides/vite
 #### Run le projet
 
 ```bash
-  npm run dev
+  pnpm run dev
 ```
 
 
