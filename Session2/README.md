@@ -64,7 +64,7 @@ Bienvenue dans la Session 2 de notre parcours d'apprentissage React pour débuta
 
 ## 🏁 Pour commencer
 
-Assurez-vous que votre environnement de développement est configuré avec Node.js et npm/yarn. Clonez le dépôt de démarrage si nécessaire, installez les dépendances et lancez votre projet React.
+Assurez-vous d'avoir initialisé un nouveau projet React pour cette session. Préparez votre environnement de développement et assurez-vous que tout est en place pour commencer à coder. voir readme session 1
 
 ## Besoin d'aide ? 🆘
 
