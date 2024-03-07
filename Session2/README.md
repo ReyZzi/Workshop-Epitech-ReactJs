@@ -35,17 +35,7 @@ Assurez-vous d'avoir initialisé un nouveau projet React pour cette session. Pr�
 3. Ajoutez une fonction `handleInputChange` qui met à jour l'état `feedback` avec les valeurs saisies par l'utilisateur.
 4. Créez un bouton de soumission qui affiche les valeurs de l'état `feedback` dans la console lorsque le formulaire est soumis.
 
-### Exercice 3 : Toggle Theme
-
-**Objectif :** Ajouter un commutateur dans votre application qui permet à l'utilisateur de basculer entre un thème clair et sombre.
-
-#### Étapes :
-
-1. Initialisez un état local `theme` pour stocker le thème actuel.
-2. Ajoutez un bouton qui, lorsque cliqué, bascule la valeur de `theme` entre 'light' et 'dark'.
-3. Utilisez l'état `theme` pour conditionnellement changer les classes CSS du composant et appliquer différents styles selon le thème.
-
-### Exercice 4 : Liste de Tâches
+### Exercice 3 : Liste de Tâches
 
 **Objectif :** Créer une simple application de liste de tâches où les utilisateurs peuvent ajouter et supprimer des tâches.
 
@@ -56,7 +46,7 @@ Assurez-vous d'avoir initialisé un nouveau projet React pour cette session. Pr�
 3. Ajoutez un bouton pour soumettre la nouvelle tâche, en l'ajoutant au tableau des tâches.
 4. Affichez la liste des tâches et fournissez un moyen de les supprimer individuellement.
 
-### Exercice 5 : Composant d'Alerte
+### Exercice 4 : Composant d'Alerte
 
 **Objectif :** Construire un composant `Alert` qui s'affiche avec un message spécifique en fonction d'une certaine condition.
 
@@ -66,7 +56,7 @@ Assurez-vous d'avoir initialisé un nouveau projet React pour cette session. Pr�
 2. Dans un autre composant, utilisez `useState` pour gérer une condition qui déterminera si l'alerte doit être affichée.
 3. Affichez le composant `Alert` avec un message lorsque la condition est remplie.
 
-### 📖 Exercice 6 : Liste de publications
+### 📖 Exercice 5 : Liste de publications
 
 **Objectif :** Afficher une liste de publications en utilisant l'API JSONPlaceholder.
 
@@ -76,7 +66,7 @@ Assurez-vous d'avoir initialisé un nouveau projet React pour cette session. Pr�
 2. Stockez les résultats dans un état local avec `useState`.
 3. Affichez ces publications dans votre composant sous forme de liste.
 
-### 📝 Exercice 7 : Détails de publication
+### 📝 Exercice 6 : Détails de publication
 
 **Objectif :** Montrer les détails d'une publication lorsque l'utilisateur sélectionne un titre.
 
@@ -86,7 +76,7 @@ Assurez-vous d'avoir initialisé un nouveau projet React pour cette session. Pr�
 2. Faites une requête à `https://jsonplaceholder.typicode.com/posts/{id}` pour obtenir plus de détails.
 3. Affichez ces détails dans une vue détaillée au sein de votre application.
 
-### ➕ Exercice 8 : Ajouter une publication
+### ➕ Exercice 7 : Ajouter une publication
 
 **Objectif :** Offrir à l'utilisateur la possibilité de soumettre une nouvelle publication via un formulaire.
 
