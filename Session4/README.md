@@ -69,6 +69,6 @@ export default counterReducer;
 
 Aborder le routing avec `react-router-dom` et la gestion de l'état avec Redux peut parfois sembler complexe. Voici quelques ressources pour vous guider :
 
-- **React Router** : Pour débuter avec le routing dans vos applications React, la [documentation officielle de React Router](https://reactrouter.com/web/guides/quick-start) est un excellent point de départ.
+- **React Router** : Pour débuter avec le routing dans vos applications React, la [documentation officielle de React Router](https://reactrouter.com/web/guides/quick-start) 
 - **Redux** : Si vous souhaitez approfondir votre compréhension de Redux pour la gestion de l'état, consultez [les tutoriels et guides officiels de Redux](https://redux.js.org/introduction/getting-started).
-- **Context API** : Pour ceux qui explorent Context API pour partager l'état à travers les composants, la [section Context de la documentation officielle de React](https://fr.reactjs.org/docs/context.html) est très instructive.
+- **Context API** : Pour Context API, partager l'état à travers les composants, la [section Context de la documentation officielle de React](https://fr.reactjs.org/docs/context.html) est très instructive.
