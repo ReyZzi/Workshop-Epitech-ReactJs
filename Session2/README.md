@@ -1,4 +1,4 @@
-# Session 2 : Gestion d'état, Hookds et requetes API
+# Session 2 : Gestion d'état, Hooks et requetes API
 
 Bienvenue dans la Session 2 des workshops ReactJs. Dans cette session, nous nous concentrerons sur la gestion d'état avec `useState` et sur la manipulation des événements, deux piliers pour créer des applications dynamiques et interactives.
 
