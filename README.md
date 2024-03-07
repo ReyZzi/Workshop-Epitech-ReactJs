@@ -19,7 +19,7 @@ Découvrez le routing avec `react-router-dom` et la gestion avancée de l'état 
 
 ## 💡 Avant de commencer
 
-Il est vivement recommandé d'avoir des notions préalables en HTML, CSS, et JavaScript pour profiter pleinement de ces workshops. Pour les sessions 2, 3, et 4, il est crucial d'avoir complété la Session 1, car les concepts s'appuient les uns sur les autres.
+Il est vivement recommandé d'avoir des notions préalables en HTML, CSS, et JavaScript pour profiter pleinement de ces workshops. Pour les sessions 2, 3, et 4, il est recommandé d'avoir complété la Session 1, car les concepts s'appuient les uns sur les autres.
 
 ## 🎯 À la fin de ces workshops, vous serez capable de :
 
