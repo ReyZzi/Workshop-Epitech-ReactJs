@@ -1,4 +1,4 @@
-# 🚦 Session 4 : Routing et gestion avancée de l'état avec Redux
+# 🚦 Session 3 : Routing et gestion avancée de l'état avec Redux
 
 Bienvenue dans notre dernière session, où nous explorons le routing avec `react-router-dom` et découvrons Redux pour une gestion avancée et centralisée de l'état de nos applications React.
 
