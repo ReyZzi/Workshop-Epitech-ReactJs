@@ -7,6 +7,10 @@ Plongeons plus profondément dans le monde des Hooks avec React et découvrons c
 - Exploiter `useEffect` pour exécuter des effets secondaires.
 - Apprendre à récupérer des données depuis une API externe avec `fetch` et à les afficher dans nos composants React.
 
+## 🏁 Pour commencer
+
+Assurez-vous d'avoir initialisé un nouveau projet React pour cette session. Préparez votre environnement de développement et assurez-vous que tout est en place pour commencer à coder. voir readme session 1
+
 ## 📚 Exercices
 
 ### 📖 Exercice 1 : Liste de publications
@@ -57,9 +61,6 @@ Plongeons plus profondément dans le monde des Hooks avec React et découvrons c
 1. Intégrez un bouton "Rafraîchir" au-dessus de votre liste de publications.
 2. Lorsqu'il est cliqué, refaites une requête à l'API pour obtenir les dernières publications et mettez à jour l'état qui contient les publications.
 
-## 🏁 Pour commencer
-
-Assurez-vous d'avoir initialisé un nouveau projet React pour cette session. Préparez votre environnement de développement et assurez-vous que tout est en place pour commencer à coder. voir readme session 1
 
 ## 🆘 Besoin d'aide ?
 
@@ -67,5 +68,4 @@ Si vous rencontrez des difficultés avec les requêtes API ou les Hooks, pensez 
 - [Documentation officielle de React sur les Hooks](https://fr.reactjs.org/docs/hooks-intro.html) pour une immersion dans `useState` et `useEffect`.
 - [JSONPlaceholder documentation](https://jsonplaceholder.typicode.com/guide/) pour des exemples d'utilisation de l'API.
 
-💡 N'oubliez pas, la pratique est la clé ! Et notre communauté est là pour vous soutenir à chaque étape. N'hésitez pas à partager vos questions et progrès.
 
