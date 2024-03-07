@@ -1,12 +1,12 @@
 # Workshop-Epitech-ReactJs
 #  Bienvenue 👋 dans notre Série de Workshops React !
 
-Ce parcours d'apprentissage est conçu pour vous guider à travers les fondamentaux de React, du début jusqu'à l'exploration de concepts avancés. Chaque session est préparée pour renforcer vos compétences en développement web avec React, en commençant par les bases et en progressant vers des sujets plus complexes.
+Ces workshops sont conçu pour vous guider à travers les fondamentaux de React, du début jusqu'à l'exploration de concepts avancés. Chaque session est préparée pour renforcer vos compétences en développement web avec React, en commençant par les bases et en progressant vers des sujets plus complexes.
 
 ## 🚀 Ce que vous allez apprendre
 
 ### Session 1 : Fondations de React, TypeScript, et Tailwind
-Découvrez les composants React, JSX, les props, les états et comment styliser vos composants avec Tailwind CSS. Vous sortirez avec une solide compréhension des bases de React.
+Découvrez les composants React, JSX, les props, les états et comment styliser vos composants avec Tailwind CSS.
 
 ### Session 2 : Gestion d'état et événements
 Plongez plus profondément dans la gestion de l'état avec `useState` et apprenez à gérer les événements pour créer des interfaces utilisateur interactives.
