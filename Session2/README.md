@@ -7,6 +7,10 @@ Bienvenue dans la Session 2 de notre parcours d'apprentissage React pour débuta
 - Apprendre à utiliser le Hook `useState` pour gérer l'état local des composants.
 - Comprendre et appliquer la gestion des événements pour interagir avec l'utilisateur.
 
+## 🏁 Pour commencer
+
+Assurez-vous d'avoir initialisé un nouveau projet React pour cette session. Préparez votre environnement de développement et assurez-vous que tout est en place pour commencer à coder. voir readme session 1
+
 ## 📚 Exercices
 
 ### Exercice 1 : Compteur
@@ -61,10 +65,6 @@ Bienvenue dans la Session 2 de notre parcours d'apprentissage React pour débuta
 1. Créez un composant `Alert` qui accepte un prop `message`.
 2. Dans un autre composant, utilisez `useState` pour gérer une condition qui déterminera si l'alerte doit être affichée.
 3. Affichez le composant `Alert` avec un message lorsque la condition est remplie.
-
-## 🏁 Pour commencer
-
-Assurez-vous d'avoir initialisé un nouveau projet React pour cette session. Préparez votre environnement de développement et assurez-vous que tout est en place pour commencer à coder. voir readme session 1
 
 ## Besoin d'aide ? 🆘
 
