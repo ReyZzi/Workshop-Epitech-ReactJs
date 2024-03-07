@@ -74,18 +74,18 @@ https://tailwindcss.com/docs/guides/vite
 
 3. **Styliser avec Tailwind :** Utilisez les utilitaires de Tailwind pour styliser la liste. Par exemple, utilisez `className="list-disc space-y-2"` pour les éléments de liste.
 
-### 🧩 Exercice 4 : Composant `Card`
+### Exercice 4 : Composant `Card`
 
 **Objectif :** Créer un composant `Card` pour afficher une image, un titre et une description.
 
 #### Étapes :
-1. Définissez un nouveau composant `Card.tsx`.
+1. **Définissez un nouveau composant `Card.tsx`.
 
-2. Le composant doit accepter des props pour une image (URL), un titre et une description.
+2. **Le composant doit accepter des props pour une image (URL), un titre et une description.
 
-3. Utilisez TypeScript pour typer les props correctement.
+3. **Utilisez TypeScript pour typer les props correctement.
 
-4. Stylisez le composant avec Tailwind CSS pour qu'il soit attrayant et réactif.
+4. **Stylisez le composant avec Tailwind CSS pour qu'il soit attrayant et réactif.
 
 ## Besoin d'aide ? 🆘
 
