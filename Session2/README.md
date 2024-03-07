@@ -70,5 +70,4 @@ Assurez-vous que votre environnement de développement est configuré avec Node.
 
 Si vous avez des questions ou rencontrez des difficultés, la documentation officielle de [React](https://reactjs.org/docs/hooks-state.html) sur les Hooks d'état et la gestion des événements est une excellente ressource. Pour le styling, n'oubliez pas de consulter [Tailwind CSS](https://tailwindcss.com/).
 
-Heureux codage ! 🌈
 
