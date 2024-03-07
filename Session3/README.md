@@ -59,7 +59,7 @@ Plongeons plus profondément dans le monde des Hooks avec React et découvrons c
 
 ## 🏁 Pour commencer
 
-Assurez-vous d'avoir initialisé un nouveau projet React pour cette session. Préparez votre environnement de développement et assurez-vous que tout est en place pour commencer à coder.
+Assurez-vous d'avoir initialisé un nouveau projet React pour cette session. Préparez votre environnement de développement et assurez-vous que tout est en place pour commencer à coder. voir readme session 1
 
 ## 🆘 Besoin d'aide ?
 
