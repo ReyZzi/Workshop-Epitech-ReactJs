@@ -1,7 +1,7 @@
 
 # 🚀 Session 1 : Fondations de React, TypeScript, et Tailwind
 
-Bonjour et bienvenue dans cette première session ! 👋 Aujourd'hui, nous allons plonger dans les fondamentaux de React, explorer TypeScript, et apprendre à styliser nos applications avec Tailwind CSS. Préparez-vous à construire des bases solides pour vos futurs projets web.
+Bonjour et bienvenue dans cette première session ! 👋 Aujourd'hui, nous allons plonger dans les fondamentaux de React, explorer TypeScript, et apprendre à styliser nos applications avec Tailwind CSS.
 
 ## Objectifs 🎯
 
