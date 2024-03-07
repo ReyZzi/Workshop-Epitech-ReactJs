@@ -65,3 +65,8 @@ function counterReducer(state = initialState, action) {
 
 export default counterReducer;
 ```
+## 🆘 Besoin d'aide ?
+
+- **Routing :** La documentation de `react-router-dom` offre des guides et des exemples pour bien démarrer avec le routing dans React.
+- **Redux :** Pour une introduction à Redux, consultez la documentation officielle et les tutoriels disponibles pour comprendre comment configurer votre store et gérer l'état global.
+- **Context API :** La documentation de React sur Context API est une excellente ressource pour apprendre à partager des données globales entre composants sans prop drilling.
