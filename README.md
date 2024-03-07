@@ -1,5 +1,5 @@
 # Workshop-Epitech-ReactJs
-# 👑 Bienvenue dans notre Série de Workshops React !
+#  Bienvenue 👋 dans notre Série de Workshops React !
 
 Ce parcours d'apprentissage est conçu pour vous guider à travers les fondamentaux de React, du début jusqu'à l'exploration de concepts avancés. Chaque session est préparée pour renforcer vos compétences en développement web avec React, en commençant par les bases et en progressant vers des sujets plus complexes.
 
