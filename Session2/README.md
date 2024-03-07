@@ -1,6 +1,6 @@
 # Session 2 : Gestion d'état et événements
 
-Bienvenue dans la Session 2 de notre parcours d'apprentissage React pour débutants. Dans cette session, nous nous concentrerons sur la gestion d'état avec `useState` et sur la manipulation des événements, deux piliers pour créer des applications dynamiques et interactives.
+Bienvenue dans la Session 2 des workshops ReactJs. Dans cette session, nous nous concentrerons sur la gestion d'état avec `useState` et sur la manipulation des événements, deux piliers pour créer des applications dynamiques et interactives.
 
 ## 🎯 Objectifs
 
@@ -66,8 +66,12 @@ Assurez-vous d'avoir initialisé un nouveau projet React pour cette session. Pr�
 2. Dans un autre composant, utilisez `useState` pour gérer une condition qui déterminera si l'alerte doit être affichée.
 3. Affichez le composant `Alert` avec un message lorsque la condition est remplie.
 
-## Besoin d'aide ? 🆘
+## 🆘 Besoin d'aide ?
 
-Si vous avez des questions ou rencontrez des difficultés, la documentation officielle de [React](https://reactjs.org/docs/hooks-state.html) sur les Hooks d'état et la gestion des événements est une excellente ressource. Pour le styling, n'oubliez pas de consulter [Tailwind CSS](https://tailwindcss.com/).
+Si vous rencontrez des difficultés ou avez des questions sur la gestion de l'état et les événements dans React, voici quelques ressources qui pourraient vous être utiles :
+
+- **Gestion de l'état avec useState** : Pour une meilleure compréhension du Hook useState, consultez [la documentation officielle de React sur useState](https://fr.reactjs.org/docs/hooks-state.html).
+- **Gestion des événements** : Pour en savoir plus sur la manière de gérer les événements dans vos composants React, visitez [la documentation officielle de React sur la gestion des événements](https://fr.reactjs.org/docs/handling-events.html).
+
 
 
