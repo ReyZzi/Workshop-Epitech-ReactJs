@@ -7,6 +7,11 @@ Bienvenue dans notre dernière session, où nous explorons le routing avec `reac
 - Introduire le routing dans vos applications React pour une navigation fluide entre différentes vues.
 - Comprendre et appliquer les principes de Redux pour gérer l'état global de manière prévisible.
 
+
+## 🏁 Pour commencer
+
+Assurez-vous d'avoir initialisé un nouveau projet React pour cette session. Préparez votre environnement de développement et assurez-vous que tout est en place pour commencer à coder. voir readme session 1
+
 ## 📚 Exercices
 
 ### 🧭 Exercice 1 : Mise en place du Routing
