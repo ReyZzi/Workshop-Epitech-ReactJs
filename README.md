@@ -8,13 +8,11 @@ Ces workshops sont conçu pour vous guider à travers les fondamentaux de React,
 ### Session 1 : Fondations de React, TypeScript, et Tailwind
 Découvrez les composants React, JSX, les props, les états et comment styliser vos composants avec Tailwind CSS.
 
-### Session 2 : Gestion d'état et événements
+### Session 2 : Gestion d'état, hooks et requetes API
 Plongez plus profondément dans la gestion de l'état avec `useState` et apprenez à gérer les événements pour créer des interfaces utilisateur interactives.
-
-### Session 3 : Hooks et requêtes API
 Explorez des Hooks supplémentaires comme `useEffect` pour effectuer des effets secondaires, et intégrez des données externes dans vos applications en utilisant des requêtes API.
 
-### Session 4 : Routing et gestion avancée de l'état
+### Session 3 : Routing et gestion avancée de l'état
 Découvrez le routing avec `react-router-dom` et la gestion avancée de l'état avec Redux, des compétences clés pour développer des applications React modernes et bien structurées.
 
 ## 💡 Avant de commencer
