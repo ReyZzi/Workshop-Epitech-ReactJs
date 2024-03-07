@@ -66,6 +66,36 @@ Assurez-vous d'avoir initialisé un nouveau projet React pour cette session. Pr�
 2. Dans un autre composant, utilisez `useState` pour gérer une condition qui déterminera si l'alerte doit être affichée.
 3. Affichez le composant `Alert` avec un message lorsque la condition est remplie.
 
+### 📖 Exercice 6 : Liste de publications
+
+**Objectif :** Afficher une liste de publications en utilisant l'API JSONPlaceholder.
+
+#### Étapes :
+
+1. Utilisez `useEffect` pour effectuer une requête GET à `https://jsonplaceholder.typicode.com/posts`.
+2. Stockez les résultats dans un état local avec `useState`.
+3. Affichez ces publications dans votre composant sous forme de liste.
+
+### 📝 Exercice 7 : Détails de publication
+
+**Objectif :** Montrer les détails d'une publication lorsque l'utilisateur sélectionne un titre.
+
+#### Étapes :
+
+1. Ajoutez une fonctionnalité de sélection pour chaque titre de publication.
+2. Faites une requête à `https://jsonplaceholder.typicode.com/posts/{id}` pour obtenir plus de détails.
+3. Affichez ces détails dans une vue détaillée au sein de votre application.
+
+### ➕ Exercice 8 : Ajouter une publication
+
+**Objectif :** Offrir à l'utilisateur la possibilité de soumettre une nouvelle publication via un formulaire.
+
+#### Étapes :
+
+1. Créez un formulaire avec des champs pour le titre et le corps de la publication.
+2. Envoyez les données saisies vers `https://jsonplaceholder.typicode.com/posts` en utilisant la méthode `POST`.
+3. Confirmez visuellement l'ajout de la publication.
+
 ## 🆘 Besoin d'aide ?
 
 Si vous rencontrez des difficultés ou avez des questions sur la gestion de l'état et les événements dans React, voici quelques ressources qui pourraient vous être utiles :
