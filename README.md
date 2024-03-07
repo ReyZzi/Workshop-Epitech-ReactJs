@@ -29,4 +29,3 @@ Il est vivement recommandé d'avoir des notions préalables en HTML, CSS, et Jav
 - Intégrer des données externes grâce aux API.
 - Naviguer entre différentes vues et gérer l'état global de manière efficace.
 
-Prêt à commencer cette aventure en React ? Allons-y ! 🚀
