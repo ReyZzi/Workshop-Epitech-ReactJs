@@ -18,19 +18,15 @@ Assurez-vous d'avoir initialisé un nouveau projet React pour cette session. Pr�
 
 Intégrez `react-router-dom` pour créer un système de navigation entre les pages "Accueil", "À propos" et "Contact" de votre application.
 
-### 📖 Exercice 2 : Paramètres de Route
-
-Utilisez les paramètres de route pour afficher le contenu spécifique d'une page, comme les détails d'un produit identifié par son ID dans l'URL.
-
-### 🔗 Exercice 3 : Navigation
+### 🔗 Exercice 2 : Navigation
 
 Mettez en place une barre de navigation permettant de se déplacer aisément entre les sections de votre application grâce à `Link` ou `NavLink`.
 
-### 🔄 Exercice 4 : Context API pour un thème global
+### 🔄 Exercice 3 : Context API pour un thème global
 
 Implémentez un thème global pour votre application en utilisant Context API, permettant aux utilisateurs de basculer entre un thème clair et sombre.
 
-### 🛠 Exercice 5 : Introduction à Redux pour la gestion de l'état
+### 🛠 Exercice 4 : Introduction à Redux pour la gestion de l'état
 
 **Objectif :** Implémenter Redux pour créer un magasin d'état global pour votre application, en commençant par une fonctionnalité simple comme un compteur.
 
