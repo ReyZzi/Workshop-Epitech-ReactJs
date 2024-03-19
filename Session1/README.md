@@ -90,7 +90,7 @@ https://tailwindcss.com/docs/guides/vite
 
 **Objectif :** Créer un composant Dropdown réutilisable qui permet de sélectionner une option parmi plusieurs, en utilisant TypeScript pour typer les props et Tailwind pour le styliser.
 
-1. Définir les Props : Créez une interface DropdownProps qui inclut une liste d'options et une fonction callback qui est appelée lorsque l'option est sélectionnée.
+1. Définir les Props : Créez une interface DropdownProps qui inclut une liste d'options (string[]) et une fonction callback qui est appelée lorsque l'option est sélectionnée.
 
 2. Implémenter le Composant : Développez le composant Dropdown qui affiche la liste des options et gère la sélection. Utilisez les classes Tailwind pour styliser le dropdown de manière élégante.
 
