@@ -76,15 +76,6 @@ Assurez-vous d'avoir initialisé un nouveau projet React pour cette session. Pr�
 2. Faites une requête à `https://jsonplaceholder.typicode.com/posts/{id}` pour obtenir plus de détails.
 3. Affichez ces détails dans une vue détaillée au sein de votre application.
 
-### ➕ Exercice 7 : Ajouter une publication
-
-**Objectif :** Offrir à l'utilisateur la possibilité de soumettre une nouvelle publication via un formulaire.
-
-#### Étapes :
-
-1. Créez un formulaire avec des champs pour le titre et le corps de la publication.
-2. Envoyez les données saisies vers `https://jsonplaceholder.typicode.com/posts` en utilisant la méthode `POST`.
-3. Confirmez visuellement l'ajout de la publication.
 
 ## 🆘 Besoin d'aide ?
 
