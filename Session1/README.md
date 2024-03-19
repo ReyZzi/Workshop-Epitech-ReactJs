@@ -50,7 +50,7 @@ https://tailwindcss.com/docs/guides/vite
 
 1. **Définir les Props :** Commencez par créer une interface `ButtonProps` dans un nouveau fichier `Button.tsx`. Cette interface doit inclure `label` (string) et `onClick` (fonction).
 
-2. **Créer le Composant :** Utilisez l'interface `ButtonProps` pour typer les props de votre composant fonctionnel `Button`. Renvoyez un élément bouton (`<button>`) qui utilise ces props.
+2. **Créer le Composant :** Utilisez l'interface `ButtonProps` pour typer les props de votre composant fonctionnel `Button`. Renvoyez un élément bouton (`<button>`) qui utilise ces props, le onclick doit console log 'Hello'.
 
 3. **Styliser avec Tailwind :** Appliquez des classes Tailwind au bouton pour le styliser. Par exemple, utilisez `className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded"` pour un joli effet.
 
